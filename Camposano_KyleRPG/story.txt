@@ -1,0 +1,27 @@
+You're starving. You walk into In-n-Out. There are numerous lines.|1|2|3
+You join the left line. Waiting...Waiting...It's taking too long. You want to leave your line and join another line.|2|4|5
+You join the right line. Waiting...Waiting...It's taking too long. You want to leave your line and join another line.|3|6|7
+You join another left line. You're now impatient. Waiting...It's taking too long again. You want to join another line again.|4|8|9
+You join another right line. You're now impatient. Waiting...It's taking too long again. You want to join another line again.|5|7|-1
+You join another left line. Waiting...Now you're losing your mind. The wait is too long. You join another line.|6|12|13
+You join another right line. Waiting...Now you're losing your mind. The wait is too long. You join another line.|7|14|15
+You joined the most left line. Now, you're furious and hungry! Waiting...two people on your left and right are trying to chat with you.|8|16|17
+You joined the right line. You're now very close to the front to order. On the wall, you see 2 meal menus side-by-side.|9|18|19
+You join the left line again. But this time, it's not moving whatsoever. You decided to leave. Upset, hungry, and crying...|10|-1|-1
+As soon as you step in the new line, your surrounding changes...Everything's bright, you travel to another dimension. You wake up, Elon Musk is staring at you.|11|-1|-1
+You join the left line. A lady yelled behind you, "Stop cutting! Get out outta here!" You leave In-n-Out.|12|-1|-1
+You join the right line. A man whispered, "Hey man, go back to your line..." You get triggered. You leave In-n-Out.|13|-1|-1
+You join the leftmost line. Elon Musk is behind you. You're furious that the line is just too long. You slap Elon and run out of In-n-Out.|14|-1|-1
+You join the rightmost line. A kid behind you slaps your thigh. You're already furious about the line. You nudge the kid, he falls. You're too embarrassed, so you leave In-n-Out.|15|-1|-1
+You turn to the person on your left. He says something, but you ignored him. Now, It's your turn to order. You're offered 2 meals side-by-side.|16|32|33
+You turn to the person on your right. She stares, no words were spoken. She's just awkward. She pulls out 2 candies, one on each hand.|17|34|35
+You picked the left menu. It's now your turn to order, you order one of the meals in front of you.|18|36|37
+You picked the right menu. It says "You won $1,000,000 worth of Taco bell". You decide to leave In-n-Out and head to Taco Bell.|19|-1|-1
+You pick the left meal. You sit down to eat it. You're full, satisfied, and sleepy. Smiling and content, you leave In-n-Out.|32|-1|-1
+You pick the right neal. It's a new meal in collaboration with Wendy's. You sit down to eat it. It's disgusting. Dissatisfied and discontent, you storm out of In-n-Out.|33|-1|-1
+You grab the left candy. It's melted chocolate, and your hand is now sticky. You're xocolatophobic (fear of chocolate). You're horrified. You run out of In-n-Out.|34|-1|-1
+You grab the right candy. You open it. It's a bright green candy, in a shape of Elon Musk's face. You want to yet it across the restaurant, either left or right.|35|70|71
+You order the left meal. You sit down. You savor every bite of the burger. Now you're satisfied, full, and sleepy. You put your head down. You fall asleep.|36|-1|-1
+You order the right meal. You sit down. Out of nowhere, Elon Musk rushes past you. Your food is gone. You cry. You leave In-n-Out in tears and in shock. "What just happened?".|37|-1|-1
+You yeet it to the left side of the restaurant. You hit an old lady in the head. The entire room immediately stares at you. You're too embarrassed, so you leave In-n-Out.|70|-1|-1
+You yeet it to the right side of the restaurant. A loud and big flash. The candy transformed. The candy Elon Musk turned into life-sized Elon Musk. It chases you. You run out of the restaurant.|71|-1|-1
